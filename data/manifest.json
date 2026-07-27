@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 3,
   "upstream": {
     "name": "JMdict_e",
     "url": "http://ftp.edrdg.org/pub/Nihongo/JMdict_e.gz",
@@ -20,7 +20,7 @@
       "end_ent_seq": 1049999,
       "entries": 4399,
       "lookup_keys": 8755,
-      "sha256": "750ca3aeff08559800fd21836a5835e4a321893911ed5340bd619366a5c6663a"
+      "sha256": "b0222650c752b90fc27a8efefe29a98aa1b19d0ddc513096526bf3a12eb8ebc1"
     },
     {
       "file": "1050000-1099999.json",
@@ -28,7 +28,7 @@
       "end_ent_seq": 1099999,
       "entries": 4444,
       "lookup_keys": 7380,
-      "sha256": "ded286817bb307832449a45ca84603ccff941982511b6630b64c4f6832279436"
+      "sha256": "5e64f02d9a593a991fc2e62061c2dae3860a2d9cb5bd313516909be6e26f9cd1"
     },
     {
       "file": "1100000-1149999.json",
@@ -36,7 +36,7 @@
       "end_ent_seq": 1149999,
       "entries": 4411,
       "lookup_keys": 7480,
-      "sha256": "102a947e4326bc95736e9da5d5f91d911129022878e91fc042912793611bceda"
+      "sha256": "344058662400f0e3af56e347fa57a10037be6e396c94ddb7fba843eb9fa734f6"
     },
     {
       "file": "1150000-1199999.json",
@@ -44,7 +44,7 @@
       "end_ent_seq": 1199999,
       "entries": 4765,
       "lookup_keys": 11567,
-      "sha256": "f3d2806fd9fcaa19a7b2f3f4abef58b8ceaca6b751ad0711e2203769dbe2e541"
+      "sha256": "8d0272dff9cdc3c415f2d30bc04c03d4bc8d7f46e33a575f4b1f24a1ff526ef7"
     },
     {
       "file": "1200000-1249999.json",
@@ -52,7 +52,7 @@
       "end_ent_seq": 1249999,
       "entries": 4798,
       "lookup_keys": 11452,
-      "sha256": "a8854d3d57ec70941d9def2b0a09284df1f7257b4aed59a9339bf9b85b3419bd"
+      "sha256": "556b9367ccdf025daa838f4b6b50dfeeda4c334c0477e091a0468ed05fff0fc6"
     },
     {
       "file": "1250000-1299999.json",
@@ -60,7 +60,7 @@
       "end_ent_seq": 1299999,
       "entries": 4793,
       "lookup_keys": 11567,
-      "sha256": "b62b3cfe2c1ba19f7a62350536f3aacef3e223f80d9abc3304226d69fb922198"
+      "sha256": "2b46767ee0ee840944aa48afb22f14dddd0f4505df51902d207c2efdf4c453eb"
     },
     {
       "file": "1300000-1349999.json",
@@ -68,7 +68,7 @@
       "end_ent_seq": 1349999,
       "entries": 4812,
       "lookup_keys": 11623,
-      "sha256": "5a631e8ee680c0404aae45bedec524e5dd62a82eedef096d438d284fc0515f1c"
+      "sha256": "58fa3f81b0d8c2be7108a5395ccd0fa1e4df246394af4122a79819ca9502bb2a"
     },
     {
       "file": "1350000-1399999.json",
@@ -76,7 +76,7 @@
       "end_ent_seq": 1399999,
       "entries": 4799,
       "lookup_keys": 11725,
-      "sha256": "179733fc1f6af4db256c0bc29d979342625f420bd52a630e972c90031f50480c"
+      "sha256": "9e7a70ee0535ebd3cfcf611753d1df894eee9a1df707c2f439d242fb12378580"
     },
     {
       "file": "1400000-1449999.json",
@@ -84,7 +84,7 @@
       "end_ent_seq": 1449999,
       "entries": 4798,
       "lookup_keys": 11464,
-      "sha256": "331a67135a08371f16696d185f98f8c937c0c5adfb23b1d9925d3ba17cdb5eea"
+      "sha256": "1f42305d488603a196a349adb4ed75ca277e1630bb911e627ef1847f4dc6d3be"
     },
     {
       "file": "1450000-1499999.json",
@@ -92,7 +92,7 @@
       "end_ent_seq": 1499999,
       "entries": 4806,
       "lookup_keys": 11541,
-      "sha256": "da9ee580de33ff0c754887d029aacb002dafc21f6462878cbb52b040f19fd44c"
+      "sha256": "0557b4cca3a375feda551dab3658e764bc1aae693d4f36ab29ec06973100fbee"
     },
     {
       "file": "1500000-1549999.json",
@@ -100,7 +100,7 @@
       "end_ent_seq": 1549999,
       "entries": 4806,
       "lookup_keys": 11432,
-      "sha256": "451cfe6917bbbf263d2b3d08d305594f3c36a486a77ab7c2cd23871f43064b9d"
+      "sha256": "2fc52cbda8e484fa7ef68b9dd4deeb6ccec742923d65a05314c9ce0da5ed1f39"
     },
     {
       "file": "1550000-1599999.json",
@@ -108,7 +108,7 @@
       "end_ent_seq": 1599999,
       "entries": 4714,
       "lookup_keys": 15224,
-      "sha256": "d3418ff18e8f3f6363c4bb7b49f53d2e689a0751148a4ac4fe11a2a27c730857"
+      "sha256": "7e5b1d36dc4c12d286c46965a66e68106cf2059bcf22751836f261c86f8f3503"
     },
     {
       "file": "1600000-1649999.json",
@@ -116,7 +116,7 @@
       "end_ent_seq": 1649999,
       "entries": 4562,
       "lookup_keys": 12545,
-      "sha256": "f97aa91f07348a9a0ff4fa7c2efcb0c25e5ba1202448b61ca1fc8093ec88cd1a"
+      "sha256": "6a158e4d88280069f8fadd0a2dfa9a463dd64b0079647bbb0abaa9793d43bb8e"
     },
     {
       "file": "1650000-1699999.json",
@@ -124,7 +124,7 @@
       "end_ent_seq": 1699999,
       "entries": 4612,
       "lookup_keys": 11340,
-      "sha256": "12f436fda4b3fe4004a796f4ac185fd02be1646024a4a069e037f791d78431a4"
+      "sha256": "1b2330b52505e80193ad0d94213cb36440aab05d9b87452788a08d5edbfd6ac0"
     },
     {
       "file": "1700000-1749999.json",
@@ -132,7 +132,7 @@
       "end_ent_seq": 1749999,
       "entries": 4618,
       "lookup_keys": 10854,
-      "sha256": "99eff0ddcbcb0253faa663842e569c5e9eef4fdbc049ab2194054ed362be9464"
+      "sha256": "b4283a93ef489d6c3e396543b48b00960676e2ec42c4261a0b5b4943501acc87"
     },
     {
       "file": "1750000-1799999.json",
@@ -140,7 +140,7 @@
       "end_ent_seq": 1799999,
       "entries": 4648,
       "lookup_keys": 11171,
-      "sha256": "94a4941a8cec4ef77a4578f8e80d2aae6b054aa51ba509434584b15229ce9c9f"
+      "sha256": "7d49bc897e0efd756ac8f3b7dd54c3d5dcbf648882d768d18a6f47c89ad2f072"
     },
     {
       "file": "1800000-1849999.json",
@@ -148,7 +148,7 @@
       "end_ent_seq": 1849999,
       "entries": 4553,
       "lookup_keys": 11308,
-      "sha256": "9206697b82e209f74e1bae99829bee143de72ff82a6b57da49af41311e7220a7"
+      "sha256": "4f65eb72597b6ce68a3248d9581e8c51800f2894a89dc916cea23cc68086f360"
     },
     {
       "file": "1850000-1899999.json",
@@ -156,7 +156,7 @@
       "end_ent_seq": 1899999,
       "entries": 3494,
       "lookup_keys": 8473,
-      "sha256": "282908d601734eb9cae15da14089b5c61646bd73213c738d6f0a2013ed3e107c"
+      "sha256": "ca0c71d761faac360777a59247e896a6f2e74197766655b44d82b4c38704084f"
     },
     {
       "file": "1900000-1949999.json",
@@ -164,7 +164,7 @@
       "end_ent_seq": 1949999,
       "entries": 4076,
       "lookup_keys": 8771,
-      "sha256": "3f94ffbcb69902f20b8b49fbc96a50303003c81b396d04cb04d6e6822cb6a8bf"
+      "sha256": "99f94af54b0b47ad85a7fee6c4c324f9d23a136e25d4ac85de91301abde926bd"
     },
     {
       "file": "1950000-1999999.json",
@@ -172,7 +172,7 @@
       "end_ent_seq": 1999999,
       "entries": 4557,
       "lookup_keys": 10058,
-      "sha256": "01b6fd027f04694c2cd79900a766a7c921a020e8e163c67458f0d65dd7f2b217"
+      "sha256": "4785a57a1f4169c9f7012426f99809c32cab0287c1cdf468d31a283cd6aa879f"
     },
     {
       "file": "2000000-2049999.json",
@@ -180,7 +180,7 @@
       "end_ent_seq": 2049999,
       "entries": 4552,
       "lookup_keys": 10519,
-      "sha256": "81f053a862c3aef42de2a45889e91fbf59b293a82ea7818dddd21fd35aeb8720"
+      "sha256": "ee9273b29eb44e5209a9f61531d1116bff4e329c0764e689e2c290b06cde1084"
     },
     {
       "file": "2050000-2099999.json",
@@ -188,7 +188,7 @@
       "end_ent_seq": 2099999,
       "entries": 4558,
       "lookup_keys": 10760,
-      "sha256": "56e9da073e70bbdccc21e1044ab777182bd6283c3c6b73ec6376b0cecb1d02c4"
+      "sha256": "841f4ba3f5e3adc046bbb160371df45ba4e73ffeed47d60e081867f4d8df2f63"
     },
     {
       "file": "2100000-2149999.json",
@@ -196,7 +196,7 @@
       "end_ent_seq": 2149999,
       "entries": 4689,
       "lookup_keys": 11040,
-      "sha256": "536788765835e7cab7abc1ad6aea5be0772bebdab8cb2c141ae3b88dc5b3777f"
+      "sha256": "2a52664167f65e82915288194cbb29156f8c57bd4956d8a5797864331108cf58"
     },
     {
       "file": "2150000-2199999.json",
@@ -204,7 +204,7 @@
       "end_ent_seq": 2199999,
       "entries": 4791,
       "lookup_keys": 11333,
-      "sha256": "55ebd436ec4b0de17be9d55447dafd0936077cca018bbba8fb7c97aebbe1023b"
+      "sha256": "81dee61485e5459a87d6e441b24adb83de0954c2fd5ebcaad092d60212a5b686"
     },
     {
       "file": "2200000-2249999.json",
@@ -212,7 +212,7 @@
       "end_ent_seq": 2249999,
       "entries": 4822,
       "lookup_keys": 11500,
-      "sha256": "faad32e0c35a60526f2404dd2f5162c9d68a6e60cd15267ab1d92ee1d8488340"
+      "sha256": "de406efa41762c655a7066ebed0c6d13ae81c1b54c197c2a3c1186da9652fb2f"
     },
     {
       "file": "2250000-2299999.json",
@@ -220,7 +220,7 @@
       "end_ent_seq": 2299999,
       "entries": 4207,
       "lookup_keys": 9614,
-      "sha256": "c156cab3164a088b4c27148d1f54beda6ece769ce452c383eed4c7426e8b458d"
+      "sha256": "076dd4130b62fbdbdf20d5b4c6e3a4f7c9d48ea73c54542a26ac0b1753d6bec4"
     },
     {
       "file": "2300000-2349999.json",
@@ -228,7 +228,7 @@
       "end_ent_seq": 2349999,
       "entries": 4008,
       "lookup_keys": 8172,
-      "sha256": "a9e1201bb68f7d5fc310588b324a49908b1367b56383ff7e0cadf7a9d69d8a11"
+      "sha256": "678567e89f60d559173dfbce663f637301dc0f6291bb9280528e85161492aeb3"
     },
     {
       "file": "2350000-2399999.json",
@@ -236,7 +236,7 @@
       "end_ent_seq": 2399999,
       "entries": 4504,
       "lookup_keys": 9306,
-      "sha256": "a29330accd6ee8aea40e727f09ed6c0d2cb8fda2566cf2db817ff6774931387c"
+      "sha256": "1f89b1d072003c513ee5dabff40f951e0ef5183b28aeda454a23567b2ad9945c"
     },
     {
       "file": "2400000-2449999.json",
@@ -244,7 +244,7 @@
       "end_ent_seq": 2449999,
       "entries": 4699,
       "lookup_keys": 10610,
-      "sha256": "cf6610a6285d678b8a2c5830998f2ad1eaf16b5c27750bb8540e696133631c7c"
+      "sha256": "7a08cba6e973c347f23ece91d8019a8d68820ed88ec6e18b70552857703baeb7"
     },
     {
       "file": "2450000-2499999.json",
@@ -252,7 +252,7 @@
       "end_ent_seq": 2499999,
       "entries": 4610,
       "lookup_keys": 8336,
-      "sha256": "8fb12d757452cfb5ed4c6d459031765dee5543aabc2284d4d73141b14e674e3f"
+      "sha256": "c28df5ca658876520e91dc85ece04bcf1de4415b0a7937b3621144ab01d4709e"
     },
     {
       "file": "2500000-2549999.json",
@@ -260,7 +260,7 @@
       "end_ent_seq": 2549999,
       "entries": 4649,
       "lookup_keys": 10026,
-      "sha256": "d2f7c4c7af8901632702f9b7c7e806cafb1553cf62c20b09e609ac6103635b9d"
+      "sha256": "0e69cffa2d9d6b63c8b834735f131fbef85d91db7ff400d8e6cf65827770bcbc"
     },
     {
       "file": "2550000-2599999.json",
@@ -268,7 +268,7 @@
       "end_ent_seq": 2599999,
       "entries": 4555,
       "lookup_keys": 10790,
-      "sha256": "56868d594ada185f107df3606d7a14fa4597be01875f7b8d3812efd71b8e28d9"
+      "sha256": "8ce097283891d1960d90ba732e83e727dd2f472996ffb65a1f60b9a39d12c398"
     },
     {
       "file": "2600000-2649999.json",
@@ -276,7 +276,7 @@
       "end_ent_seq": 2649999,
       "entries": 4742,
       "lookup_keys": 10857,
-      "sha256": "783b574ea3f515e8d753519e3839d36340fd6b7699c15cc5cf980d11c876d74b"
+      "sha256": "422dbe2b2ddaa3eda6e994f9fd819058a84a477002bb8d2a6bdd377cfbc85ff1"
     },
     {
       "file": "2650000-2699999.json",
@@ -284,7 +284,7 @@
       "end_ent_seq": 2699999,
       "entries": 4608,
       "lookup_keys": 10471,
-      "sha256": "33b8832a76b2705990de854dcc5241d3f5a17efe69ab5e7744d45a7f35f903da"
+      "sha256": "7bade0120c2539af0c7b9461467df8c60e0b6450b34170133258ed45a8e004c2"
     },
     {
       "file": "2700000-2749999.json",
@@ -292,7 +292,7 @@
       "end_ent_seq": 2749999,
       "entries": 4734,
       "lookup_keys": 10864,
-      "sha256": "9e4c95be031c9c6135ed21068a89aa3a106bc30b33f3f62587d6fb55c94685cb"
+      "sha256": "eee5713f3b4fbb03ca7441582e1f1870c3da43eea42ce9854113a8af8a1f8c42"
     },
     {
       "file": "2750000-2799999.json",
@@ -300,7 +300,7 @@
       "end_ent_seq": 2799999,
       "entries": 4668,
       "lookup_keys": 11064,
-      "sha256": "a702dad60edc2b012f350ec6ab30be3c31318026d9ec671e3ca20ad88ad2afc1"
+      "sha256": "631087e66c219d100cbbdcfe04f9a48359a955bbd287c7d5c21aa8c9f8e15fa4"
     },
     {
       "file": "2800000-2849999.json",
@@ -308,7 +308,7 @@
       "end_ent_seq": 2849999,
       "entries": 25105,
       "lookup_keys": 56329,
-      "sha256": "b92d9b8497930ddd6c1fb7d9dcb6d6496aab46897384ed96d10edbbff6dc1ab8"
+      "sha256": "a68357d99f3ce642a764e70d6350423e972ebc358d97c9d17f1a34b9029a7290"
     },
     {
       "file": "2850000-2899999.json",
@@ -316,7 +316,7 @@
       "end_ent_seq": 2899999,
       "entries": 20869,
       "lookup_keys": 46739,
-      "sha256": "066c23d80c86ce48584bb1a738b17302874907a554c8588ee61360fc7c44ff4b"
+      "sha256": "2d0605de2241c288b60032b4188fc9da9cf7375b3663443a3575ca5a576c2dae"
     },
     {
       "file": "5000000-5049999.json",
@@ -447,5 +447,5 @@
       "sha256": "f96e249dcc730310534015f124643f84380951a691bd946f0171b943c1fb37e3"
     }
   ],
-  "manifest_sha256": "a9cb9272f09d16ee65b7e63e77b4aa3e368b7be5a5b30b776ebf9aa1e8ba52c3"
+  "manifest_sha256": "38c5da8f7b01e3ddd58545ebd6e49fff702e3305c597b242bb61b13aa4a55f15"
 }
