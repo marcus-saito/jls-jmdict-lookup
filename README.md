@@ -9,8 +9,8 @@ upstream dictionary data.
 - Upstream: JMdict_e, maintained by the Electronic Dictionary Research and
   Development Group (EDRDG)
 - Project: https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project
-- Snapshot creation date: 2026-10-19
-- Snapshot SHA-256: `e84b7515b481485fe17f79939144bfbbd545638676899849512c99959ec03c1e`
+- Snapshot creation date: 2026-10-28
+- Snapshot SHA-256: `739ce5a15038e063f6db819fe61a70c0f60c2039569b651f0a0f5601fdbc0b39`
 - Licence: Creative Commons Attribution-ShareAlike 4.0 International
 
 The `data/` directory is byte-identical to the generated artifact in JLS. Its
